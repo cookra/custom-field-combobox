@@ -96,7 +96,7 @@ module.exports = function(grunt) {
       prod: {
         options: {
           tab: "myhome",
-          pageName: "Multi-component Grid",
+          pageName: "custom field combobox",
           shared: false
         }
       }
