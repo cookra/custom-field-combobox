@@ -1,8 +1,9 @@
-GridExample
+custom field combobox
 =========================
 
 ## Overview
 
+This is an example of combobox populated with allowed values of a custom field of dropdown type. A grid displays defects filtered by the vaule in the combobox.
 
 ## License
 
